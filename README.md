@@ -10,6 +10,7 @@ I had already found this data in a previous analysis, but in this analysis I ref
 
 ## Results
 
+In 2017,
 
 ![All_Stocks(2017)](https://github.com/jolwig/VBA_Challenge/blob/main/All_Stocks(2017).PNG)
 
