@@ -11,6 +11,7 @@ I had already found this data in a previous analysis, but in this analysis I ref
 ## Results
 
 
+![All_Stocks(2017)](https://github.com/jolwig/VBA_Challenge/blob/main/All_Stocks(2017).PNG)
 
 In 2018, 10 out of the 12 stocks in the dataset had negative returns. The two stocks that had positive returns, ENPH and RUN, outperformed the average return (-6.6%) of the dataset by a large margin. ENPH and RUN also had the highest total daily volume. JKS and DQ were the two lowest perfroming stocks.
 
