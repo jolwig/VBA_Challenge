@@ -10,11 +10,17 @@ I had already found this data in a previous analysis, but in this analysis I ref
 
 ## Results
 
-In 2017,
+In 2017, all stocks had positive returns except for TERP. DQ had the highest return and the lowest total daily volume.
 
 ![All_Stocks(2017)](https://github.com/jolwig/VBA_Challenge/blob/main/All_Stocks(2017).PNG)
 
 In 2018, 10 out of the 12 stocks in the dataset had negative returns. The two stocks that had positive returns, ENPH and RUN, outperformed the average return (-6.6%) of the dataset by a large margin. ENPH and RUN also had the highest total daily volume. JKS and DQ were the two lowest perfroming stocks.
 
+![All_Stocks(2018)](https://github.com/jolwig/VBA_Challenge/blob/main/All_Stocks(2018).PNG)
+
 ## Summary
 
+The advantage of the refactored code is that it runs faster than the original code. However, the original code looks easier to read and understand which is good if you are working with a team.
+
+![refactored 2017](https://github.com/jolwig/VBA_Challenge/blob/main/VBA_Challenge_2017.PNG)
+![refactored 2018](https://github.com/jolwig/VBA_Challenge/blob/main/VBA_Challenge_2018.PNG)
